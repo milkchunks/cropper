@@ -1,0 +1,1 @@
+straightener: look inside of top corner chunks for headstone corners? then calculate slope of top long edge, then rotate image so the top edge is straight
